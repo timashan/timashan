@@ -14,6 +14,12 @@
 
 <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=timashan&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="timashan" /></div>
 
+<div align="center">  
+  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href="https://twitter.com/tima5han"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://codepen.io/timashan"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"/></a>
+</div>
+
 <!-- ./STAT -->
 <div align="center">  
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=timashan&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Timashan github stats" /> 
